@@ -10,7 +10,7 @@ Secured **Silver Medal (2nd place)** out of 10+ teams across IITs and NITs in th
 
 ## 📈 Project Overview
 
-This repository contains my solution to the [Optimization Challenge](link-to-challenge), focusing on:
+This repository contains my solution to the [Optimization Challenge](https://github.com/abhijitd1267/Optimization_challenge_exergy25.git), focusing on:
 - Advanced circuit parameter fitting using non-linear regression and neural networks
 - Accurate modeling of Electrochemical Impedance Spectroscopy (EIS) data for bio-recognition and sensor applications
 - Achieved a circuit fitting metric R² score of **0.984**, significantly im
