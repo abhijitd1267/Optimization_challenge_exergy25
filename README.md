@@ -44,7 +44,7 @@ pip install numpy scipy matplotlib scikit-learn pandas jupyter
 jupyter notebook evolve.ipynb
 ```
 
-## Certificate
+## 📜 Certificate
 ![Exergy Challenge Certificate](https://github.com/abhijitd1267/Optimization_challenge_exergy25/raw/main/Exergy_certificate.jpeg)
 
 ## 🤝 Acknowledgement
